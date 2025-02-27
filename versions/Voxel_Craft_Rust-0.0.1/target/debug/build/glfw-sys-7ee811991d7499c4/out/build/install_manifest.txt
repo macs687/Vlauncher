@@ -1,8 +1,0 @@
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/lib/glfw3.lib
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/include/GLFW/glfw3.h
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/include/GLFW/glfw3native.h
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/lib/cmake/glfw3/glfw3Config.cmake
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/lib/cmake/glfw3/glfw3Targets.cmake
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
-C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.0.1/target/debug/build/glfw-sys-7ee811991d7499c4/out/lib/pkgconfig/glfw3.pc
