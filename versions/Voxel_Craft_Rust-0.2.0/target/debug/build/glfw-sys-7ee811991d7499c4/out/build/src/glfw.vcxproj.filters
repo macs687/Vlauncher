@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\egl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\osmesa_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\mappings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\Desktop\PROJECTS\Vlauncher\versions\Voxel_Craft_Rust-0.2.0\target\debug\build\glfw-sys-7ee811991d7499c4\out\build\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\win32_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\egl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\osmesa_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\macs3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glfw-sys-5.0.0+3.3.9\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0400C644-E0DA-3586-9160-7A6FDE7D0300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B34FD0F9-EBDD-3F90-A863-268666463F10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

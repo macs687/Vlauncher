@@ -1,0 +1,7 @@
+C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.2.0/target/debug/build/glfw-sys-7ee811991d7499c4/out/build/CMakeFiles/uninstall.dir
+C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.2.0/target/debug/build/glfw-sys-7ee811991d7499c4/out/build/CMakeFiles/INSTALL.dir
+C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.2.0/target/debug/build/glfw-sys-7ee811991d7499c4/out/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.2.0/target/debug/build/glfw-sys-7ee811991d7499c4/out/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.2.0/target/debug/build/glfw-sys-7ee811991d7499c4/out/build/src/CMakeFiles/update_mappings.dir
+C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.2.0/target/debug/build/glfw-sys-7ee811991d7499c4/out/build/src/CMakeFiles/glfw.dir
+C:/Users/macs3/Desktop/PROJECTS/Vlauncher/versions/Voxel_Craft_Rust-0.2.0/target/debug/build/glfw-sys-7ee811991d7499c4/out/build/src/CMakeFiles/INSTALL.dir
