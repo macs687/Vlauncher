@@ -2,3 +2,5 @@
 
 
 лучше взять файл launcher.py поместить в отдельную папку и выполнить комманду - pyinstaller --onefile launcher.py
+
+edit tag
